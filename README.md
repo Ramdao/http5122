@@ -1,2 +1,2 @@
 # http5122
-Files from HTTP5122 course.
+Files from HTTP5122 (Front-End Web Development) course.
