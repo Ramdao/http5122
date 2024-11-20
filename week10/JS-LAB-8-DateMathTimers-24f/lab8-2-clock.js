@@ -32,7 +32,7 @@ window.onload = start;
 	}	
 	
 	function starttimer(){
-		timmer = setInterval(displaytime,1000);;
+		timmer = setInterval(displaytime,1000);
 	}
 	function stoptimmer (){
 		clearInterval(timmer);
